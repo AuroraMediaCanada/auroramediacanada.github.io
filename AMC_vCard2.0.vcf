@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Stillman;Blair;;;
+FN:Aurora Media Canada
+NICKNAME:ᐱᓫᐁᕑ  ᐢᑎᓫᓫᒪᐣ
+ORG:Aurora Media Canada;
+TITLE:Founder & Creative Director
+EMAIL;type=INTERNET;type=WORK;type=pref:asset.mgmt@auroramediacanada.ca
+TEL;type=WORK;type=VOICE;type=pref:+1 403-700-7894
+X-SOCIALPROFILE;type=facebook:https://www.facebook.com/auroramediacanada
+X-SOCIALPROFILE;type=youtube:x-apple:auroramediacanada
+X-SOCIALPROFILE;type=instagram:x-apple:auroramediacanada
+NOTE:Thank you for finding our equipment.\n\nPlease contact us to arrange return and reference the Asset ID listed on the label.\n\nThis equipment is GPS tracked.
+URL;type=WORK;type=pref:www.auroramediacanada.ca/contact
+X-ABShowAs:COMPANY
+END:VCARD
